@@ -1,0 +1,46 @@
+h5{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 100px;
+  color: #594EEB;
+  font-family: monospace;
+}
+
+h3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 80px;
+  color: #594EEB;
+  font-family: monospace;
+}
+p{
+  font-size: 20px;
+  color: #594EEB;
+}
+ul{
+  font-size: 20px;
+  color: #594EEB;
+}
+a{
+  font-size: 20px;
+  color: #594EEB;
+}
+img{
+  width: 100px;
+  height: 100px;
+  border: 5px brown solid;
+  color: #594EEB;
+}
+
+h5:hover{
+            background-color: green;
+}
+h3:hover{
+            background-color: green;
+}
+p:hover{
+            background-color: green;
+}
+ul:hover{
+            background-color: green;
+}
